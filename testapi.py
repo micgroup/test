@@ -4,8 +4,8 @@ import json,sys,time,random
 #注册后一定要再点代表xxx授予管理员同意,否则outlook api无法调用
 #以下空行不要删除，以便运行时插入机密
 
-id_list2 = [1]
-secret_list2 = [1]
+id_list2 = [r'7751add-8ad9-4bb5-b8c8-295fec983f50']
+secret_list2 = [r's_t8Q~ufpCAi3bSqtQLld4I.K3SLdIhBOPJX4bTJ']
 
 
 
